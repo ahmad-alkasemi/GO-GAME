@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\go game\Project1\Source.c(325,30): warning C4133: 'function': incompatible types - from 'ALLEGRO_BITMAP *' to 'ALLEGRO_EVENT_QUEUE *'
+D:\go game\Project1\Source.c(326,30): warning C4133: 'function': incompatible types - from 'ALLEGRO_BITMAP *' to 'ALLEGRO_EVENT_QUEUE *'
+  Allegro5.vcxproj -> D:\go game\Project1\Debug\Allegro5.exe

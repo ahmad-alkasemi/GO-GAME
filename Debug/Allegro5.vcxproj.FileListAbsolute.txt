@@ -1,0 +1,2 @@
+D:\go game\Project1\Debug\Allegro5.exe
+D:\go game\Project1\Debug\Allegro5.pdb
