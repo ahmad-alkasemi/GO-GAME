@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\Allegro5\x64\Debug\Allegro5.exe
+C:\Users\User1\Desktop\Allegro5\x64\Debug\Allegro5.pdb
+D:\go game\Project1\x64\Debug\Allegro5.exe
+D:\go game\Project1\x64\Debug\Allegro5.pdb
+D:\go game\AHMAD ALKASEMI 2018556304\x64\Debug\Allegro5.exe
+D:\go game\AHMAD ALKASEMI 2018556304\x64\Debug\Allegro5.pdb

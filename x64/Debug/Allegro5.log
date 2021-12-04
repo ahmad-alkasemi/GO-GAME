@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\go game\AHMAD ALKASEMI 2018556304\Source.c(120,32): warning C4133: 'function': incompatible types - from 'ALLEGRO_SAMPLE *' to 'ALLEGRO_SAMPLE_INSTANCE *'
+D:\go game\AHMAD ALKASEMI 2018556304\Source.c(120,35): warning C4020: 'al_play_sample_instance': too many actual parameters
+  Allegro5.vcxproj -> D:\go game\AHMAD ALKASEMI 2018556304\x64\Debug\Allegro5.exe
